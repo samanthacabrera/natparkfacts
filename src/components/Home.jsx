@@ -1,5 +1,6 @@
 import React from 'react';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import { Link } from 'react-router-dom'; // Import Link for navigation
 import 'leaflet/dist/leaflet.css';
 import parksData from '../data/parksData.json'; 
 import L from 'leaflet'; 
@@ -15,22 +16,18 @@ L.Icon.Default.mergeOptions({
 
 function Home() {
   return (
-    <div className="flex flex-col h-screen">
-      <header className="bg-forest-green text-gray-50 text-center py-12 flex-shrink-0 relative">
-        <h1 className="text-5xl mb-2">
-          National Park Fun Facts
-        </h1>
-        <p className="text-xl font-light mb-4">
-          Discover interesting facts about national parks across the United States.
-        </p>
-        <div className="text-gray-200 text-sm">
+    <div className="flex flex-col h-screen bg-gray-50">
+      <header className="bg-green-800 text-white text-center py-8 flex-shrink-0 relative">
+        <h1 className="text-4xl font-bold mb-2">National Park Fun Facts</h1>
+        <p className="text-lg mb-4">Discover interesting facts about national parks across the United States.</p>
+        <div className="text-gray-300 text-sm">
           <a 
             href="https://www.nationalparks.org" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="hover:text-gray-50"
           >
-            learn more
+            Learn more
           </a>
           {' | '}
           <a 
@@ -39,7 +36,7 @@ function Home() {
             rel="noopener noreferrer" 
             className="hover:text-gray-50"
           >
-           contribute
+            Contribute
           </a>
         </div>
       </header>
@@ -66,8 +63,13 @@ function Home() {
                 <strong className="text-lg font-semibold">{park.name}</strong>
                 <br />
                 {park.funFact}
-                {park.description}
-                {park.latitude},{park.longitude}
+                <br />
+                <Link
+                  to={`/natpark/${park.id}`}
+                  className="inline-block mt-2 px-3 py-1 bg-transparent border border-gray-200 text-gray-500 rounded-md text-xs hover:bg-gray-100 hover:text-gray-700"
+                >
+                  Learn more
+                </Link>
               </Popup>
             </Marker>
           ))}
