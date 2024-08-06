@@ -28,16 +28,16 @@ function Home() {
             href="https://www.nationalparks.org" 
             target="_blank" 
             rel="noopener noreferrer" 
-            className="hover:underline"
+            className="hover:text-gray-50"
           >
             learn more
           </a>
           {' | '}
           <a 
-            href="https://github.com/your-github-username" 
+            href="https://github.com/samanthacabrera/natparkfacts" 
             target="_blank" 
             rel="noopener noreferrer" 
-            className="hover:underline"
+            className="hover:text-gray-50"
           >
            contribute
           </a>
@@ -66,6 +66,8 @@ function Home() {
                 <strong className="text-lg font-semibold">{park.name}</strong>
                 <br />
                 {park.funFact}
+                {park.description}
+                {park.latitude},{park.longitude}
               </Popup>
             </Marker>
           ))}
