@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "name": "Yellowstone",
+    "latitude": 44.428,
+    "longitude": -110.588,
+    "funFact": "Yellowstone’s Grand Prismatic Spring is the largest hot spring in the U.S., with stunning colors visible from space!",
+    "description": "Known for its geothermal features and wildlife."
+  },
+  {
+    "id": 2,
+    "name": "Yosemite",
+    "latitude": 37.865,
+    "longitude": -119.538,
+    "funFact": "Yosemite Falls is the highest waterfall in North America, plunging a total of 2,425 feet.",
+    "description": "Features breathtaking waterfalls and giant sequoias."
+  },
+  {
+    "id": 3,
+    "name": "Grand Canyon",
+    "latitude": 36.106,
+    "longitude": -112.112,
+    "funFact": "The Grand Canyon is over 277 miles long and reaches depths of over a mile.",
+    "description": "Famous for its vast and colorful rock formations."
+  },
+  {
+    "id": 4,
+    "name": "Zion",
+    "latitude": 37.297,
+    "longitude": -113.389,
+    "funFact": "Zion’s Angel’s Landing hike features a chain-assisted climb and offers one of the most thrilling views in the park.",
+    "description": "Known for its towering canyons and unique rock formations."
+  },
+  {
+    "id": 5,
+    "name": "Arches",
+    "latitude": 38.733,
+    "longitude": -109.6,
+    "funFact": "Delicate Arch is a symbol of Utah and has appeared on the state’s license plates since 1999.",
+    "description": "Home to over 2,000 natural stone arches."
+  },
+  {
+    "id": 6,
+    "name": "Glacier",
+    "latitude": 48.759,
+    "longitude": -113.787,
+    "funFact": "The park is named for its 26 glaciers, though many have significantly shrunk in recent years.",
+    "description": "Famous for its glacial landscapes and diverse wildlife."
+  },
+  {
+    "id": 7,
+    "name": "Great Smoky Mountains",
+    "latitude": 35.653,
+    "longitude": -83.507,
+    "funFact": "The park’s name comes from the ‘smoky’ mist that often envelops the mountains due to the high humidity.",
+    "description": "Features lush, green forests and rich biodiversity."
+  },
+  {
+    "id": 8,
+    "name": "Olympic",
+    "latitude": 47.802,
+    "longitude": -123.604,
+    "funFact": "Olympic National Park contains the Hoh Rain Forest, one of the rainiest places in the U.S.",
+    "description": "Offers a mix of rainforests, alpine peaks, and coastal areas."
+  },
+  {
+    "id": 9,
+    "name": "Acadia",
+    "latitude": 44.338,
+    "longitude": -68.273,
+    "funFact": "Acadia’s Cadillac Mountain is the first place to see sunrise in the U.S. from October to March.",
+    "description": "Known for its scenic coastal views and granite peaks."
+  },
+  {
+    "id": 10,
+    "name": "Denali",
+    "latitude": 63.073,
+    "longitude": -151.266,
+    "funFact": "Denali’s peak, formerly known as Mount McKinley, stands at 20,310 feet, making it the highest peak in North America.",
+    "description": "Features vast wilderness and breathtaking mountain vistas."
+  },
+  {
+    "id": 11,
+    "name": "Sequoia",
+    "latitude": 36.486,
+    "longitude": -118.565,
+    "funFact": "General Sherman Tree is over 2,200 years old and weighs approximately 2.7 million pounds.",
+    "description": "Known for its massive sequoia trees and mountainous terrain."
+  },
+  {
+    "id": 12,
+    "name": "Kings Canyon",
+    "latitude": 36.88,
+    "longitude": -118.55,
+    "funFact": "Kings Canyon’s deepest point is over 8,000 feet deep, creating dramatic views.",
+    "description": "Features deep canyons and rugged landscapes."
+  },
+  {
+    "id": 13,
+    "name": "Cuyahoga Valley",
+    "latitude": 41.291,
+    "longitude": -81.567,
+    "funFact": "The park has over 125 miles of hiking trails and is home to the scenic Cuyahoga River.",
+    "description": "Offers beautiful landscapes with waterfalls and historic sites."
+  },
+  {
+    "id": 14,
+    "name": "Everglades",
+    "latitude": 25.286,
+    "longitude": -80.898,
+    "funFact": "Everglades National Park is the only place in the world where alligators and crocodiles coexist.",
+    "description": "Known for its unique wetland ecosystem and diverse wildlife."
+  },
+  {
+    "id": 15,
+    "name": "Haleakalā",
+    "latitude": 20.719,
+    "longitude": -156.027,
+    "funFact": "Haleakalā’s crater is so large that it can fit the island of Manhattan with room to spare.",
+    "description": "Features stunning sunrise views and diverse landscapes."
+  },
+  {
+    "id": 16,
+    "name": "Hawaii Volcanoes",
+    "latitude": 19.406,
+    "longitude": -155.283,
+    "funFact": "Kīlauea is one of the world’s most active volcanoes, with frequent eruptions over the past decades.",
+    "description": "Known for its volcanic activity and lava flows."
+  },
+  {
+    "id": 17,
+    "name": "Rocky Mountain",
+    "latitude": 40.377,
+    "longitude": -105.55,
+    "funFact": "The park’s Trail Ridge Road is one of the highest paved roads in North America, reaching over 12,000 feet.",
+    "description": "Features high-altitude mountain landscapes and diverse wildlife."
+  },
+  {
+    "id": 18,
+    "name": "Mount Rainier",
+    "latitude": 46.852,
+    "longitude": -121.760,
+    "funFact": "Mount Rainier is covered by 25 major glaciers, more than any other peak in the contiguous U.S.",
+    "description": "Known for its massive glaciers and wildflower meadows."
+  },
+  {
+    "id": 19,
+    "name": "Great Basin",
+    "latitude": 38.983,
+    "longitude": -116.066,
+    "funFact": "Great Basin National Park features the Lehman Caves, a stunning underground cave system with unique formations.",
+    "description": "Features diverse landscapes including caves and ancient bristlecone pines."
+  },
+  {
+    "id": 20,
+    "name": "Bryce Canyon",
+    "latitude": 37.593,
+    "longitude": -112.187,
+    "funFact": "Bryce Canyon is not actually a canyon but a series of natural amphitheaters carved into the edge of a plateau.",
+    "description": "Famous for its unique hoodoo rock formations."
+  },
+  {
+    "id": 21,
+    "name": "Badlands",
+    "latitude": 43.85,
+    "longitude": -102.34,
+    "funFact": "The park’s eroded rock formations resemble a ‘badlands’ terrain, hence the name.",
+    "description": "Features dramatic landscapes and rich fossil deposits."
+  },
+  {
+    "id": 22,
+    "name": "Lassen Volcanic",
+    "latitude": 40.498,
+    "longitude": -121.5,
+    "funFact": "Lassen Volcanic National Park features all four types of volcanoes: shield, composite, cinder cone, and lava dome.",
+    "description": "Known for its volcanic features and geothermal activity."
+  },
+  {
+    "id": 23,
+    "name": "Mount Hood",
+    "latitude": 45.373,
+    "longitude": -121.695,
+    "funFact": "Mount Hood is a dormant stratovolcano that last erupted around 200 years ago, making it one of the most active in the Cascade Range.",
+    "description": "Offers skiing, climbing, and scenic mountain views."
+  },
+  {
+    "id": 24,
+    "name": "Death Valley",
+    "latitude": 36.464,
+    "longitude": -116.866,
+    "funFact": "Death Valley holds the record for the highest air temperature ever recorded on Earth: 134°F (56.7°C).",
+    "description": "Features extreme temperatures and unique desert landscapes."
+  },
+  {
+    "id": 25,
+    "name": "Channel Islands",
+    "latitude": 34.005,
+    "longitude": -119.710,
+    "funFact": "The park’s islands are home to species found nowhere else on Earth, like the Channel Islands fox.",
+    "description": "Offers stunning coastal views and unique island ecosystems."
+  },
+  {
+    "id": 26,
+    "name": "Pinnacles",
+    "latitude": 36.6,
+    "longitude": -121.16,
+    "funFact": "Pinnacles National Park is known for its unique rock formations and is a great place for rock climbing.",
+    "description": "Features striking geological formations and diverse habitats."
+  },
+  {
+    "id": 27,
+    "name": "Mesa Verde",
+    "latitude": 37.23,
+    "longitude": -108.46,
+    "funFact": "Mesa Verde is home to Cliff Palace, one of the largest cliff dwellings in North America.",
+    "description": "Famous for its well-preserved Ancestral Puebloan cliff dwellings."
+  },
+  {
+    "id": 28,
+    "name": "Capitol Reef",
+    "latitude": 38.367,
+    "longitude": -111.261,
+    "funFact": "Capitol Reef is named for the white sandstone dome that resembles the U.S. Capitol building.",
+    "description": "Known for its colorful rock formations and scenic canyons."
+  },
+  {
+    "id": 29,
+    "name": "Gates of the Arctic",
+    "latitude": 67.92,
+    "longitude": -153.35,
+    "funFact": "Gates of the Arctic is the northernmost national park in the U.S., and it has no roads or trails.",
+    "description": "Offers true wilderness experience with stunning arctic landscapes."
+  },
+  {
+    "id": 30,
+    "name": "Wrangell-St. Elias",
+    "latitude": 61.5,
+    "longitude": -142.7,
+    "funFact": "Wrangell-St. Elias is the largest national park in the U.S., covering over 13 million acres.",
+    "description": "Features diverse terrain including glaciers, mountains, and volcanic landscapes."
+  },
+  {
+    "id": 31,
+    "name": "Katmai",
+    "latitude": 58.3,
+    "longitude": -155.0,
+    "funFact": "Katmai is famous for its Brown bears and the Valley of Ten Thousand Smokes, a volcanic landscape.",
+    "description": "Known for its bear viewing and volcanic activity."
+  },
+  {
+    "id": 32,
+    "name": "Denali",
+    "latitude": 63.07,
+    "longitude": -151.27,
+    "funFact": "Denali National Park is home to North America’s highest peak, which was once called Mount McKinley.",
+    "description": "Features breathtaking mountain views and diverse wildlife."
+  },
+  {
+    "id": 33,
+    "name": "Alaska Range",
+    "latitude": 62.99,
+    "longitude": -152.22,
+    "funFact": "The Alaska Range features some of the highest peaks in North America, including Denali.",
+    "description": "Offers dramatic mountain scenery and challenging climbs."
+  },
+  {
+    "id": 34,
+    "name": "Yosemite",
+    "latitude": 37.83,
+    "longitude": -119.54,
+    "funFact": "Yosemite Valley was shaped by glaciers during the last Ice Age, creating its iconic features.",
+    "description": "Famous for its glacially-carved valleys and granite cliffs."
+  },
+  {
+    "id": 35,
+    "name": "Grand Teton",
+    "latitude": 43.73,
+    "longitude": -110.8,
+    "funFact": "Grand Teton National Park is known for its stunning mountain scenery and pristine lakes.",
+    "description": "Features the majestic Teton Range and beautiful alpine lakes."
+  },
+  {
+    "id": 36,
+    "name": "North Cascades",
+    "latitude": 48.78,
+    "longitude": -121.82,
+    "funFact": "North Cascades is often called the ‘American Alps’ due to its rugged terrain and numerous glaciers.",
+    "description": "Known for its rugged mountains and numerous glaciers."
+  },
+  {
+    "id": 37,
+    "name": "Badlands",
+    "latitude": 43.85,
+    "longitude": -102.35,
+    "funFact": "The park’s colorful rock formations and fossil beds date back millions of years.",
+    "description": "Features dramatic landscapes and rich fossil deposits."
+  },
+  {
+    "id": 38,
+    "name": "Mount Rainier",
+    "latitude": 46.86,
+    "longitude": -121.75,
+    "funFact": "Mount Rainier is an active stratovolcano with its last eruption occurring over 100 years ago.",
+    "description": "Known for its glaciers and towering peak."
+  },
+  {
+    "id": 39,
+    "name": "Great Smoky Mountains",
+    "latitude": 35.65,
+    "longitude": -83.52,
+    "funFact": "The park is home to more than 1,500 species of flowering plants, more than any other U.S. national park.",
+    "description": "Features rich biodiversity and lush forest landscapes."
+  },
+  {
+    "id": 40,
+    "name": "Lassen Volcanic",
+    "latitude": 40.50,
+    "longitude": -121.49,
+    "funFact": "Lassen Volcanic National Park is one of the few places in the world where you can see all four types of volcanoes.",
+    "description": "Known for its diverse volcanic features and geothermal activity."
+  },
+  {
+    "id": 41,
+    "name": "Hawaii Volcanoes",
+    "latitude": 19.40,
+    "longitude": -155.30,
+    "funFact": "Kīlauea has been erupting almost continuously from 1983 to 2018, creating new land and reshaping the landscape.",
+    "description": "Features active volcanoes and lava flows."
+  },
+  {
+    "id": 42,
+    "name": "Glacier",
+    "latitude": 48.76,
+    "longitude": -113.68,
+    "funFact": "Glacier National Park’s climate is influenced by its location in the Northern Rocky Mountains, leading to diverse ecosystems.",
+    "description": "Known for its stunning glaciers and diverse wildlife."
+  },
+  {
+    "id": 43,
+    "name": "Cuyahoga Valley",
+    "latitude": 41.29,
+    "longitude": -81.56,
+    "funFact": "The park’s Cuyahoga River was a key site during the Industrial Revolution, shaping the region's history.",
+    "description": "Features beautiful landscapes and historical sites."
+  },
+  {
+    "id": 44,
+    "name": "Arches",
+    "latitude": 38.73,
+    "longitude": -109.6,
+    "funFact": "The park’s iconic arches are formed by the erosion of sandstone over millions of years.",
+    "description": "Home to thousands of natural stone arches."
+  },
+  {
+    "id": 45,
+    "name": "Channel Islands",
+    "latitude": 34.01,
+    "longitude": -119.72,
+    "funFact": "The Channel Islands were once connected to the mainland but became separated by rising sea levels.",
+    "description": "Features unique island ecosystems and coastal views."
+  },
+  {
+    "id": 46,
+    "name": "Yosemite",
+    "latitude": 37.73,
+    "longitude": -119.6,
+    "funFact": "Yosemite National Park contains one of the largest contiguous wilderness areas in the Sierra Nevada.",
+    "description": "Known for its wilderness and iconic landmarks."
+  },
+  {
+    "id": 47,
+    "name": "Pinnacles",
+    "latitude": 36.60,
+    "longitude": -121.16,
+    "funFact": "Pinnacles is home to a unique rock formation known as the Bear Gulch Caves, formed by volcanic activity.",
+    "description": "Features striking rock formations and diverse habitats."
+  },
+  {
+    "id": 48,
+    "name": "Badlands",
+    "latitude": 43.85,
+    "longitude": -102.33,
+    "funFact": "The park’s name comes from the Lakota Sioux language, meaning ‘bad lands’ due to its harsh terrain.",
+    "description": "Known for its rugged landscapes and rich fossil deposits."
+  },
+  {
+    "id": 49,
+    "name": "Grand Teton",
+    "latitude": 43.73,
+    "longitude": -110.8,
+    "funFact": "The Grand Teton peaks are part of the Teton Range, which rises abruptly from the surrounding plains.",
+    "description": "Features dramatic mountain scenery and alpine lakes."
+  },
+  {
+    "id": 50,
+    "name": "Capitol Reef",
+    "latitude": 38.37,
+    "longitude": -111.26,
+    "funFact": "Capitol Reef’s unique rock formations include the Waterpocket Fold, a 100-mile-long ridge.",
+    "description": "Known for its unique geological features and scenic canyons."
+  },
+  {
+    "id": 51,
+    "name": "Mesa Verde",
+    "latitude": 37.23,
+    "longitude": -108.46,
+    "funFact": "Mesa Verde’s Cliff Palace is one of the best-preserved examples of Ancestral Puebloan architecture.",
+    "description": "Features well-preserved cliff dwellings and archaeological sites."
+  },
+  {
+    "id": 52,
+    "name": "Great Smoky Mountains",
+    "latitude": 35.65,
+    "longitude": -83.52,
+    "funFact": "The park is known for its early morning mist, which often gives the Smokies their name.",
+    "description": "Features lush forests and rich biodiversity."
+  },
+  {
+    "id": 53,
+    "name": "Hawaii Volcanoes",
+    "latitude": 19.40,
+    "longitude": -155.30,
+    "funFact": "The park encompasses the summit and rift zones of Kīlauea and Mauna Loa, two of the world’s most active volcanoes.",
+    "description": "Known for its volcanic activity and dynamic landscapes."
+  },
+  {
+    "id": 54,
+    "name": "Channel Islands",
+    "latitude": 34.01,
+    "longitude": -119.72,
+    "funFact": "Channel Islands National Park is a protected area that includes five islands and their surrounding marine environments.",
+    "description": "Features diverse marine and island ecosystems."
+  },
+  {
+    "id": 55,
+    "name": "Glacier",
+    "latitude": 48.76,
+    "longitude": -113.68,
+    "funFact": "The park is renowned for its spectacular glacier-carved valleys and abundant wildlife.",
+    "description": "Features dramatic glaciers and diverse habitats."
+  },
+  {
+    "id": 56,
+    "name": "Lassen Volcanic",
+    "latitude": 40.50,
+    "longitude": -121.49,
+    "funFact": "Lassen Volcanic National Park is home to Lassen Peak, one of the largest volcanic domes in the world.",
+    "description": "Known for its volcanic features and geothermal activity."
+  },
+  {
+    "id": 57,
+    "name": "North Cascades",
+    "latitude": 48.78,
+    "longitude": -121.82,
+    "funFact": "North Cascades National Park is home to over 300 glaciers, more than any other U.S. national park.",
+    "description": "Features rugged mountains and numerous glaciers."
+  },
+  {
+    "id": 58,
+    "name": "Denali",
+    "latitude": 63.07,
+    "longitude": -151.27,
+    "funFact": "Denali’s summit stands at 20,310 feet, making it the highest peak in North America.",
+    "description": "Features dramatic landscapes and diverse wildlife."
+  },
+  {
+    "id": 59,
+    "name": "Katmai",
+    "latitude": 58.3,
+    "longitude": -155.0,
+    "funFact": "The Valley of Ten Thousand Smokes is a result of the 1912 eruption of Novarupta, one of the largest eruptions of the 20th century.",
+    "description": "Known for its volcanic landscape and bear viewing."
+  },
+  {
+    "id": 60,
+    "name": "Wrangell-St. Elias",
+    "latitude": 61.5,
+    "longitude": -142.7,
+    "funFact": "Wrangell-St. Elias includes the highest peak in the U.S., Mount St. Elias, at 18,008 feet.",
+    "description": "Features a vast wilderness with diverse terrain."
+  },
+  {
+    "id": 61,
+    "name": "Gates of the Arctic",
+    "latitude": 67.92,
+    "longitude": -153.35,
+    "funFact": "Gates of the Arctic is one of the least visited national parks, offering a pristine wilderness experience.",
+    "description": "Known for its remote location and stunning arctic landscapes."
+  },
+  {
+    "id": 62,
+    "name": "Arches",
+    "latitude": 38.73,
+    "longitude": -109.6,
+    "funFact": "Arches National Park contains over 2,000 natural stone arches, making it a geological wonder.",
+    "description": "Home to an impressive collection of natural arches and rock formations."
+  },
+  {
+    "id": 63,
+    "name": "Cuyahoga Valley",
+    "latitude": 41.29,
+    "longitude": -81.56,
+    "funFact": "Cuyahoga Valley is known for its scenic railway, offering a picturesque way to explore the park’s natural beauty.",
+    "description": "Features a mix of natural beauty and historical significance."
+  }
+]
