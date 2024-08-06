@@ -52,7 +52,7 @@ function ParkMarker({ park }) {
       <Popup>
         <strong className="text-lg font-semibold">{park.name}</strong>
         <br />
-        {park.funFact}
+        Fun Fact: {park.funFact}
       </Popup>
     </Marker>
   );

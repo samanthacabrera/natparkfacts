@@ -2,559 +2,552 @@
   {
     "id": 1,
     "name": "Acadia National Park",
-    "latitude": 44.338,
-    "longitude": -68.273,
-    "funFact": "Acadia offers the highest point on the U.S. Atlantic coast at Cadillac Mountain.",
-    "description": "Features coastal landscapes and rocky shorelines.",
-    "icon": "waterfall"
+    "latitude": 44.35,
+    "longitude": -68.21,
+    "funFact": "Acadia was the first national park east of the Mississippi River, established in 1916.",
+    "description": "Known for its rocky headlands and diverse habitats.",
+    "icon": "forest"
   },
   {
     "id": 2,
-    "name": "Arches National Park",
-    "latitude": 38.733,
-    "longitude": -109.6,
-    "funFact": "Arches National Park has over 2,000 natural stone arches.",
-    "description": "Known for its natural arches and unique rock formations.",
-    "icon": "arch"
+    "name": "American Samoa National Park",
+    "latitude": -14.25,
+    "longitude": -170.68,
+    "funFact": "The only U.S. national park south of the equator, covering three volcanic islands.",
+    "description": "Features coral reefs, rainforests, and volcanic mountains.",
+    "icon": "beach"
   },
   {
     "id": 3,
-    "name": "Badlands National Park",
-    "latitude": 43.855,
-    "longitude": -102.339,
-    "funFact": "Badlands features some of the most eroded and colorful landscapes in the U.S.",
-    "description": "Known for its rugged terrain and dramatic landscapes.",
-    "icon": "canyon"
+    "name": "Arches National Park",
+    "latitude": 38.68,
+    "longitude": -109.57,
+    "funFact": "Home to over 2,000 natural stone arches, including the famous Delicate Arch.",
+    "description": "Known for its iconic red rock formations and arches.",
+    "icon": "arch"
   },
   {
     "id": 4,
-    "name": "Big Bend National Park",
-    "latitude": 29.253,
-    "longitude": -103.242,
-    "funFact": "Big Bend is named for the sharp bend in the Rio Grande river.",
-    "description": "Features desert landscapes and the Rio Grande river.",
-    "icon": "sun"
-  },
-  {
-    "id": 5,
-    "name": "Biscayne National Park",
-    "latitude": 25.441,
-    "longitude": -80.162,
-    "funFact": "Biscayne protects one of the largest marine parks in the U.S.",
-    "description": "Known for its coral reefs and underwater landscapes.",
-    "icon": "fish"
-  },
-  {
-    "id": 6,
-    "name": "Black Canyon of the Gunnison National Park",
-    "latitude": 38.575,
-    "longitude": -107.73,
-    "funFact": "The Black Canyon has some of the steepest cliffs in North America.",
-    "description": "Features dramatic and deep canyon views.",
+    "name": "Badlands National Park",
+    "latitude": 43.75,
+    "longitude": -102.5,
+    "funFact": "Contains one of the world's richest fossil beds, dating back 75 million years.",
+    "description": "Features dramatic landscapes and layered rock formations.",
     "icon": "canyon"
   },
   {
+    "id": 5,
+    "name": "Big Bend National Park",
+    "latitude": 29.25,
+    "longitude": -103.25,
+    "funFact": "Named for the prominent bend in the Rio Grande River, it covers over 800,000 acres.",
+    "description": "Known for its desert landscapes and river canyons.",
+    "icon": "cactus"
+  },
+  {
+    "id": 6,
+    "name": "Biscayne National Park",
+    "latitude": 25.65,
+    "longitude": -80.08,
+    "funFact": "95% of the park is water, protecting a portion of the Florida Reef, the only living coral barrier reef in the continental U.S.",
+    "description": "Features coral reefs and islands.",
+    "icon": "beach"
+  },
+  {
     "id": 7,
-    "name": "Bryce Canyon National Park",
-    "latitude": 37.593,
-    "longitude": -112.187,
-    "funFact": "Bryce Canyon is known for its unique hoodoo rock formations.",
-    "description": "Famous for its colorful rock spires and amphitheaters.",
+    "name": "Black Canyon of the Gunnison National Park",
+    "latitude": 38.57,
+    "longitude": -107.72,
+    "funFact": "The canyon is so deep, narrow, and sheer that very little sunlight reaches the bottom, earning it the name 'Black Canyon'.",
+    "description": "Known for its steep cliffs and dramatic vistas.",
     "icon": "canyon"
   },
   {
     "id": 8,
-    "name": "Canyonlands National Park",
-    "latitude": 38.326,
-    "longitude": -109.5,
-    "funFact": "Canyonlands features stunning canyons and unique rock formations.",
-    "description": "Known for its canyons carved by the Colorado River.",
+    "name": "Bryce Canyon National Park",
+    "latitude": 37.57,
+    "longitude": -112.18,
+    "funFact": "Bryce Canyon is famous for its unique rock formations called hoodoos, which are formed by frost weathering and stream erosion.",
+    "description": "Features colorful spire-shaped rock formations.",
     "icon": "canyon"
   },
   {
     "id": 9,
-    "name": "Capitol Reef National Park",
-    "latitude": 38.366,
-    "longitude": -111.261,
-    "funFact": "Capitol Reef features a unique water pocket fold in the landscape.",
-    "description": "Known for its unique rock formations and historic fruit orchards.",
+    "name": "Canyonlands National Park",
+    "latitude": 38.2,
+    "longitude": -109.93,
+    "funFact": "The park is divided into four districts by the Green and Colorado Rivers: the Island in the Sky, the Needles, the Maze, and the rivers themselves.",
+    "description": "Features vast canyons and river-carved landscapes.",
     "icon": "canyon"
   },
   {
     "id": 10,
-    "name": "Carlsbad Caverns National Park",
-    "latitude": 32.149,
-    "longitude": -104.556,
-    "funFact": "Carlsbad Caverns contains over 119 caves formed by sulfuric acid dissolution.",
-    "description": "Features extensive cave systems and underground formations.",
-    "icon": "campground"
-  },
-  {
-    "id": 11,
-    "name": "Channel Islands National Park",
-    "latitude": 34.012,
-    "longitude": -119.378,
-    "funFact": "Channel Islands is known for its diverse marine life and island ecosystems.",
-    "description": "Offers rugged island landscapes and marine life.",
-    "icon": "waterfall"
-  },
-  {
-    "id": 12,
-    "name": "Congaree National Park",
-    "latitude": 33.786,
-    "longitude": -80.948,
-    "funFact": "Congaree is known for its old-growth bottomland hardwood forest.",
-    "description": "Features rich biodiversity and large floodplain forest.",
-    "icon": "forest"
-  },
-  {
-    "id": 13,
-    "name": "Crater Lake National Park",
-    "latitude": 42.944,
-    "longitude": -122.109,
-    "funFact": "Crater Lake is the deepest lake in the U.S.",
-    "description": "Known for its stunning blue lake and volcanic caldera.",
-    "icon": "waterfall"
-  },
-  {
-    "id": 14,
-    "name": "Cuyahoga Valley National Park",
-    "latitude": 41.3,
-    "longitude": -81.55,
-    "funFact": "Cuyahoga Valley features the scenic Cuyahoga River and picturesque waterfalls.",
-    "description": "Known for its river valleys and beautiful waterfalls.",
-    "icon": "waterfall"
-  },
-  {
-    "id": 15,
-    "name": "Death Valley National Park",
-    "latitude": 36.46,
-    "longitude": -116.87,
-    "funFact": "Death Valley is the hottest and driest national park in the U.S.",
-    "description": "Features desert landscapes and extreme temperatures.",
-    "icon": "sun"
-  },
-  {
-    "id": 16,
-    "name": "Denali National Park",
-    "latitude": 63.073,
-    "longitude": -151.263,
-    "funFact": "Denali is home to North America's highest peak, standing at 20,310 feet.",
-    "description": "Features towering mountains and expansive wilderness.",
-    "icon": "mountain"
-  },
-  {
-    "id": 17,
-    "name": "Dry Tortugas National Park",
-    "latitude": 24.628,
-    "longitude": -82.873,
-    "funFact": "Dry Tortugas is known for its remote location and historic Fort Jefferson.",
-    "description": "Features coral reefs and historic fortifications.",
-    "icon": "waterfall"
-  },
-  {
-    "id": 18,
-    "name": "Everglades National Park",
-    "latitude": 25.286,
-    "longitude": -80.979,
-    "funFact": "Everglades is home to diverse wildlife including alligators and panthers.",
-    "description": "Known for its unique wetlands and rich biodiversity.",
-    "icon": "fish"
-  },
-  {
-    "id": 19,
-    "name": "Gates of the Arctic National Park",
-    "latitude": 67.28,
-    "longitude": -152.42,
-    "funFact": "Gates of the Arctic is one of the most remote and untouched national parks.",
-    "description": "Features expansive wilderness and Arctic landscapes.",
-    "icon": "mountain"
-  },
-  {
-    "id": 20,
-    "name": "Gateway Arch National Park",
-    "latitude": 38.624,
-    "longitude": -90.184,
-    "funFact": "Gateway Arch is a symbol of the westward expansion of the United States.",
-    "description": "Known for its iconic arch and historical significance.",
-    "icon": "sun"
-  },
-  {
-    "id": 21,
-    "name": "Glacier Bay National Park",
-    "latitude": 58.689,
-    "longitude": -137.987,
-    "funFact": "Glacier Bay features dramatic fjords and active glaciers.",
-    "description": "Known for its stunning glaciers and marine wildlife.",
-    "icon": "mountain"
-  },
-  {
-    "id": 22,
-    "name": "Glacier National Park",
-    "latitude": 48.759,
-    "longitude": -113.787,
-    "funFact": "Glacier National Park is known for its rugged mountains and stunning scenery.",
-    "description": "Features alpine landscapes and diverse ecosystems.",
-    "icon": "mountain"
-  },
-  {
-    "id": 23,
-    "name": "Grand Canyon National Park",
-    "latitude": 36.106,
-    "longitude": -112.112,
-    "funFact": "Grand Canyon is one of the seven natural wonders of the world.",
-    "description": "Known for its immense and visually overwhelming canyon.",
+    "name": "Capitol Reef National Park",
+    "latitude": 38.2,
+    "longitude": -111.17,
+    "funFact": "Named for the white domes of Navajo Sandstone that resemble the U.S. Capitol building.",
+    "description": "Features cliffs, canyons, and domes.",
     "icon": "canyon"
   },
   {
-    "id": 24,
-    "name": "Grand Teton National Park",
-    "latitude": 43.742,
-    "longitude": -110.804,
-    "funFact": "Grand Teton is known for its dramatic mountain peaks and alpine lakes.",
-    "description": "Features rugged mountain scenery and beautiful lakes.",
-    "icon": "mountain"
+    "id": 11,
+    "name": "Carlsbad Caverns National Park",
+    "latitude": 32.17,
+    "longitude": -104.44,
+    "funFact": "The park includes more than 119 caves, formed by sulfuric acid dissolution, with the Big Room being the largest accessible cave chamber in North America.",
+    "description": "Known for its extensive cave system.",
+    "icon": "cave"
   },
   {
-    "id": 25,
-    "name": "Great Basin National Park",
-    "latitude": 39.013,
-    "longitude": -116.121,
-    "funFact": "Great Basin features unique cave formations and starry night skies.",
-    "description": "Known for its caves and diverse ecological zones.",
-    "icon": "campground"
+    "id": 12,
+    "name": "Channel Islands National Park",
+    "latitude": 34.01,
+    "longitude": -119.42,
+    "funFact": "Home to over 2,000 species of plants and animals, 145 of which are found nowhere else in the world.",
+    "description": "Features five remarkable islands and their ocean environment.",
+    "icon": "island"
   },
   {
-    "id": 26,
-    "name": "Great Sand Dunes National Park",
-    "latitude": 37.798,
-    "longitude": -105.592,
-    "funFact": "Great Sand Dunes has the tallest sand dunes in North America.",
-    "description": "Features impressive sand dunes and alpine landscapes.",
-    "icon": "sun"
-  },
-  {
-    "id": 27,
-    "name": "Great Smoky Mountains National Park",
-    "latitude": 35.657,
-    "longitude": -83.507,
-    "funFact": "Great Smoky Mountains is known for its mist-covered mountains and rich biodiversity.",
-    "description": "Features rolling mountains and diverse plant and animal life.",
+    "id": 13,
+    "name": "Congaree National Park",
+    "latitude": 33.78,
+    "longitude": -80.78,
+    "funFact": "Home to the largest intact expanse of old growth bottomland hardwood forest in the southeastern U.S.",
+    "description": "Features floodplain forests and diverse ecosystems.",
     "icon": "forest"
   },
   {
+    "id": 14,
+    "name": "Crater Lake National Park",
+    "latitude": 42.94,
+    "longitude": -122.1,
+    "funFact": "Crater Lake is the deepest lake in the U.S., formed in the caldera of an ancient volcano, Mount Mazama.",
+    "description": "Known for its deep blue color and water clarity.",
+    "icon": "lake"
+  },
+  {
+    "id": 15,
+    "name": "Cuyahoga Valley National Park",
+    "latitude": 41.24,
+    "longitude": -81.55,
+    "funFact": "The park's Towpath Trail follows the historic route of the Ohio & Erie Canal, which opened in 1827.",
+    "description": "Features rolling hills, forests, and open farmlands.",
+    "icon": "forest"
+  },
+  {
+    "id": 16,
+    "name": "Death Valley National Park",
+    "latitude": 36.24,
+    "longitude": -116.82,
+    "funFact": "Death Valley is the hottest, driest, and lowest national park in the U.S., with Badwater Basin being 282 feet below sea level.",
+    "description": "Known for its extreme temperatures and unique desert landscapes.",
+    "icon": "cactus"
+  },
+  {
+    "id": 17,
+    "name": "Denali National Park",
+    "latitude": 63.33,
+    "longitude": -150.5,
+    "funFact": "Denali, formerly known as Mount McKinley, is the tallest peak in North America, standing at 20,310 feet.",
+    "description": "Features majestic mountains and diverse wildlife.",
+    "icon": "mountain"
+  },
+  {
+    "id": 18,
+    "name": "Dry Tortugas National Park",
+    "latitude": 24.63,
+    "longitude": -82.87,
+    "funFact": "Accessible only by boat or seaplane, the park is home to Fort Jefferson, one of the largest 19th-century forts in the U.S.",
+    "description": "Features crystal-clear waters, coral reefs, and marine life.",
+    "icon": "island"
+  },
+  {
+    "id": 19,
+    "name": "Everglades National Park",
+    "latitude": 25.32,
+    "longitude": -80.93,
+    "funFact": "The largest subtropical wilderness in the U.S., home to rare and endangered species like the manatee and the American crocodile.",
+    "description": "Features vast wetlands and diverse wildlife.",
+    "icon": "swamp"
+  },
+  {
+    "id": 20,
+    "name": "Gates of the Arctic National Park",
+    "latitude": 67.78,
+    "longitude": -153.3,
+    "funFact": "One of the last truly wild places on earth, with no roads or trails within the park.",
+    "description": "Known for its remote wilderness and rugged mountains.",
+    "icon": "mountain"
+  },
+  {
+    "id": 21,
+    "name": "Gateway Arch National Park",
+    "latitude": 38.63,
+    "longitude": -90.19,
+    "funFact": "The park commemorates the westward expansion of the United States and is home to the iconic 630-foot Gateway Arch.",
+    "description": "Features the Gateway Arch, which is the tallest man-made monument in the U.S.",
+    "icon": "arch"
+  },
+  {
+    "id": 22,
+    "name": "Glacier Bay National Park",
+    "latitude": 58.5,
+    "longitude": -137.0,
+    "funFact": "The park features over 1,000 glaciers and one of the world’s largest protected ecosystems.",
+    "description": "Known for its stunning glaciers and marine life.",
+    "icon": "glacier"
+  },
+  {
+    "id": 23,
+    "name":
+
+ "Glacier National Park",
+    "latitude": 48.7,
+    "longitude": -113.8,
+    "funFact": "Home to over 700 miles of hiking trails, Glacier National Park is part of the world's first International Peace Park.",
+    "description": "Features rugged mountains and pristine forests.",
+    "icon": "glacier"
+  },
+  {
+    "id": 24,
+    "name": "Grand Canyon National Park",
+    "latitude": 36.1,
+    "longitude": -112.1,
+    "funFact": "The Grand Canyon is one of the Seven Natural Wonders of the World and is over a mile deep.",
+    "description": "Known for its immense size and colorful landscape.",
+    "icon": "canyon"
+  },
+  {
+    "id": 25,
+    "name": "Grand Teton National Park",
+    "latitude": 43.7,
+    "longitude": -110.7,
+    "funFact": "The park includes the 40-mile-long Teton Range and the Snake River.",
+    "description": "Features stunning mountain scenery and wildlife.",
+    "icon": "mountain"
+  },
+  {
+    "id": 26,
+    "name": "Great Basin National Park",
+    "latitude": 38.98,
+    "longitude": -114.3,
+    "funFact": "Home to the ancient bristlecone pines, some of the oldest living trees on earth, and Lehman Caves.",
+    "description": "Features diverse landscapes and stargazing opportunities.",
+    "icon": "mountain"
+  },
+  {
+    "id": 27,
+    "name": "Great Sand Dunes National Park",
+    "latitude": 37.73,
+    "longitude": -105.51,
+    "funFact": "Home to the tallest sand dunes in North America, reaching heights of up to 750 feet.",
+    "description": "Features vast sand dunes and mountain scenery.",
+    "icon": "desert"
+  },
+  {
     "id": 28,
-    "name": "Guadalupe Mountains National Park",
-    "latitude": 31.926,
-    "longitude": -104.88,
-    "funFact": "Guadalupe Mountains includes the highest peak in Texas.",
-    "description": "Known for its mountainous terrain and desert landscapes.",
+    "name": "Great Smoky Mountains National Park",
+    "latitude": 35.68,
+    "longitude": -83.53,
+    "funFact": "The most visited national park in the U.S., with over 11 million visitors annually.",
+    "description": "Known for its diverse plant and animal life.",
     "icon": "mountain"
   },
   {
     "id": 29,
-    "name": "Haleakalā National Park",
-    "latitude": 20.716,
-    "longitude": -156.254,
-    "funFact": "Haleakalā is home to one of the world's largest dormant volcanoes.",
-    "description": "Features volcanic landscapes and stunning sunrises.",
-    "icon": "sun"
+    "name": "Guadalupe Mountains National Park",
+    "latitude": 31.92,
+    "longitude": -104.87,
+    "funFact": "Home to the four highest peaks in Texas, including Guadalupe Peak at 8,749 feet.",
+    "description": "Features rugged mountains and desert terrain.",
+    "icon": "mountain"
   },
   {
     "id": 30,
-    "name": "Hawai’i Volcanoes National Park",
-    "latitude": 19.405,
-    "longitude": -155.281,
-    "funFact": "Hawai’i Volcanoes is known for its active volcanoes, including Kilauea.",
-    "description": "Features volcanic landscapes and lava tubes.",
-    "icon": "mountain"
+    "name": "Haleakalā National Park",
+    "latitude": 20.72,
+    "longitude": -156.17,
+    "funFact": "Named after the dormant Haleakalā Volcano, which last erupted over 400 years ago.",
+    "description": "Known for its volcanic landscapes and sunrises.",
+    "icon": "volcano"
   },
   {
     "id": 31,
-    "name": "Hot Springs National Park",
-    "latitude": 34.514,
-    "longitude": -93.056,
-    "funFact": "Hot Springs is famous for its natural hot springs and historic bathhouses.",
-    "description": "Known for its thermal waters and historic spa.",
-    "icon": "waterfall"
+    "name": "Hawai'i Volcanoes National Park",
+    "latitude": 19.38,
+    "longitude": -155.2,
+    "funFact": "Home to Kīlauea, one of the world’s most active volcanoes, and Mauna Loa, the world's largest volcano.",
+    "description": "Features volcanic landscapes and lava flows.",
+    "icon": "volcano"
   },
   {
     "id": 32,
-    "name": "Indiana Dunes National Park",
-    "latitude": 41.669,
-    "longitude": -87.19,
-    "funFact": "Indiana Dunes features diverse habitats including dunes, wetlands, and forests.",
-    "description": "Known for its sandy shores and diverse ecosystems.",
-    "icon": "sun"
+    "name": "Hot Springs National Park",
+    "latitude": 34.51,
+    "longitude": -93.05,
+    "funFact": "The only national park with a town inside it, Hot Springs is famous for its thermal springs.",
+    "description": "Features historic bathhouses and hot springs.",
+    "icon": "spring"
   },
   {
     "id": 33,
-    "name": "Isle Royale National Park",
-    "latitude": 48.099,
-    "longitude": -88.554,
-    "funFact": "Isle Royale is an isolated island park with rich wildlife and wilderness.",
-    "description": "Features remote island landscapes and diverse wildlife.",
-    "icon": "mountain"
+    "name": "Indiana Dunes National Park",
+    "latitude": 41.65,
+    "longitude": -87.06,
+    "funFact": "The park features 15 miles of the southern shore of Lake Michigan and diverse ecosystems.",
+    "description": "Known for its sand dunes and beaches.",
+    "icon": "beach"
   },
   {
     "id": 34,
-    "name": "Joshua Tree National Park",
-    "latitude": 33.873,
-    "longitude": -115.9,
-    "funFact": "Joshua Tree is known for its unique desert flora and striking rock formations.",
-    "description": "Features desert landscapes and iconic Joshua trees.",
-    "icon": "sun"
+    "name": "Isle Royale National Park",
+    "latitude": 47.97,
+    "longitude": -88.91,
+    "funFact": "One of the least visited national parks, offering solitude and wilderness with no roads.",
+    "description": "Features rugged, isolated islands and scenic wilderness.",
+    "icon": "island"
   },
   {
     "id": 35,
-    "name": "Katmai National Park",
-    "latitude": 58.1,
-    "longitude": -154.7,
-    "funFact": "Katmai is famous for its large population of brown bears and volcanic activity.",
-    "description": "Known for its wildlife and volcanic landscapes.",
-    "icon": "mountain"
+    "name": "Joshua Tree National Park",
+    "latitude": 33.87,
+    "longitude": -115.9,
+    "funFact": "Named after the unique Joshua Trees, which are a species of yucca.",
+    "description": "Known for its desert landscapes and rock formations.",
+    "icon": "cactus"
   },
   {
     "id": 36,
-    "name": "Kenai Fjords National Park",
-    "latitude": 59.977,
-    "longitude": -149.596,
-    "funFact": "Kenai Fjords features dramatic fjords and glaciers.",
-    "description": "Known for its fjords and marine wildlife.",
-    "icon": "mountain"
+    "name": "Katmai National Park",
+    "latitude": 58.62,
+    "longitude": -155.0,
+    "funFact": "Famous for the Valley of Ten Thousand Smokes, a volcanic ash flow from the 1912 eruption of Novarupta.",
+    "description": "Features volcanic landscapes and brown bear viewing.",
+    "icon": "volcano"
   },
   {
     "id": 37,
-    "name": "Kings Canyon National Park",
-    "latitude": 36.883,
-    "longitude": -118.565,
-    "funFact": "Kings Canyon features deep valleys and high granite cliffs.",
-    "description": "Known for its deep canyons and rugged landscapes.",
-    "icon": "canyon"
+    "name": "Kenai Fjords National Park",
+    "latitude": 59.92,
+    "longitude": -149.65,
+    "funFact": "Home to the Harding Icefield, which feeds over 40 glaciers.",
+    "description": "Known for its glaciers and marine wildlife.",
+    "icon": "glacier"
   },
   {
     "id": 38,
-    "name": "Kobuk Valley National Park",
-    "latitude": 67.3,
-    "longitude": -156.3,
-    "funFact": "Kobuk Valley is known for its sand dunes and caribou migrations.",
-    "description": "Features sand dunes and Arctic wildlife.",
-    "icon": "mountain"
+    "name": "Kings Canyon National Park",
+    "latitude": 36.8,
+    "longitude": -118.55,
+    "funFact": "Contains the deepest canyon in the U.S., Kings Canyon, which is over a mile deep.",
+    "description": "Features giant sequoias and deep valleys.",
+    "icon": "canyon"
   },
   {
     "id": 39,
-    "name": "Lake Clark National Park",
-    "latitude": 60.26,
-    "longitude": -153.41,
-    "funFact": "Lake Clark features volcanic landscapes and pristine lakes.",
-    "description": "Known for its diverse landscapes and wilderness.",
-    "icon": "mountain"
+    "name": "Kobuk Valley National Park",
+    "latitude": 67.55,
+    "longitude": -159.28,
+    "funFact": "Home to the Great Kobuk Sand Dunes, the largest active sand dunes in the Arctic.",
+    "description": "Known for its sand dunes and caribou migration.",
+    "icon": "desert"
   },
   {
     "id": 40,
-    "name": "Lassen Volcanic National Park",
-    "latitude": 40.49,
-    "longitude": -121.5,
-    "funFact": "Lassen Volcanic features a variety of volcanic features including fumaroles and boiling springs.",
-    "description": "Known for its volcanic activity and geothermal features.",
-    "icon": "mountain"
+    "name": "Lake Clark National Park",
+    "latitude": 60.97,
+    "longitude": -153.42,
+    "funFact": "Accessible only by boat or plane, Lake Clark offers pristine wilderness and volcanoes.",
+    "description": "Features rugged mountains and turquoise lakes.",
+    "icon": "lake"
   },
   {
     "id": 41,
-    "name": "Mammoth Cave National Park",
-    "latitude": 37.2,
-    "longitude": -86.1,
-    "funFact": "Mammoth Cave is the longest cave system in the world.",
-    "description": "Features extensive underground cave systems.",
-    "icon": "campground"
+    "name": "Lassen Volcanic National Park",
+    "latitude": 40.49,
+    "longitude": -121.51,
+    "funFact": "One of the few places in the world where all four types of volcanoes can be found: shield, composite, cinder cone, and plug dome.",
+    "description": "Known for its volcanic landscapes and geothermal features.",
+    "icon": "volcano"
   },
   {
     "id": 42,
-    "name": "Mesa Verde National Park",
-    "latitude": 37.2,
-    "longitude": -108.5,
-    "funFact": "Mesa Verde is known for its well-preserved Ancestral Puebloan cliff dwellings.",
-    "description": "Features ancient cliff dwellings and archaeological sites.",
-    "icon": "campground"
+    "name": "Mammoth Cave National Park",
+    "latitude": 37.18,
+    "longitude": -86.1,
+    "funFact": "The world's longest known cave system, with more than 400 miles explored.",
+    "description": "Features extensive underground passages and chambers.",
+    "icon": "cave"
   },
   {
     "id": 43,
-    "name": "Mount Rainier National Park",
-    "latitude": 46.85,
-    "longitude": -121.76,
-    "funFact": "Mount Rainier is an active volcano and the highest peak in Washington state.",
-    "description": "Features glaciated peaks and alpine meadows.",
-    "icon": "mountain"
+    "name": "Mesa Verde National Park",
+    "latitude": 37.25,
+    "longitude": -108.46,
+    "funFact": "Preserves the largest collection of ancient cliff dwellings in North America, built by the Ancestral Puebloans.",
+    "description": "Known for its archaeological sites and cliff dwellings.",
+    "icon": "cliff"
   },
   {
     "id": 44,
-    "name": "National Park of American Samoa",
-    "latitude": -14.33,
-    "longitude": -170.65,
-    "funFact": "The National Park of American Samoa is one of the few tropical rainforests in the U.S. park system.",
-    "description": "Features tropical rainforests and coral reefs.",
-    "icon": "waterfall"
+    "name": "Mount Rainier National Park",
+    "latitude": 46.85,
+    "longitude": -121.75,
+    "funFact": "Mount Rainier is an active volcano and the most glaciated peak in the contiguous U.S.",
+    "description": "Features meadows, old-growth forests, and glaciers.",
+    "icon": "mountain"
   },
   {
     "id": 45,
-    "name": "New River Gorge National Park",
-    "latitude": 38.033,
-    "longitude": -81.07,
-    "funFact": "New River Gorge is known for its impressive gorge and outdoor recreation opportunities.",
-    "description": "Features dramatic river gorges and outdoor activities.",
-    "icon": "canyon"
+    "name": "North Cascades National Park",
+    "latitude": 48.7,
+    "longitude": -121.2,
+    "funFact": "Contains over 300 glaciers, more than any other U.S. national park outside Alaska.",
+    "description": "Known for its rugged mountains and alpine lakes.",
+    "icon": "mountain"
   },
   {
     "id": 46,
-    "name": "North Cascades National Park",
-    "latitude": 48.77,
-    "longitude": -121.81,
-    "funFact": "North Cascades is known for its rugged mountain landscapes and diverse ecosystems.",
-    "description": "Features rugged mountains and dense forests.",
-    "icon": "mountain"
+    "name": "Olympic National Park",
+    "latitude": 47.97,
+    "longitude": -123.5,
+    "funFact": "Encompasses three distinct ecosystems: subalpine forest, temperate rain forest, and the Pacific coastline.",
+    "description": "Features diverse landscapes from mountains to beaches.",
+    "icon": "forest"
   },
   {
     "id": 47,
-    "name": "Olympic National Park",
-    "latitude": 47.8,
-    "longitude": -123.6,
-    "funFact": "Olympic National Park features diverse ecosystems from beaches to alpine peaks.",
-    "description": "Known for its varied landscapes and biodiversity.",
-    "icon": "sun"
+    "name": "Petrified Forest National Park",
+    "latitude": 35.07,
+    "longitude": -109.78,
+    "funFact": "Contains one of the world's largest and most colorful concentrations of petrified wood.",
+    "description": "Known for its fossils and desert landscapes.",
+    "icon": "desert"
   },
   {
     "id": 48,
-    "name": "Petrified Forest National Park",
-    "latitude": 35.05,
-    "longitude": -109.45,
-    "funFact": "Petrified Forest is known for its fossilized trees and colorful badlands.",
-    "description": "Features fossilized trees and colorful geological formations.",
-    "icon": "canyon"
+    "name": "Pinnacles National Park",
+    "latitude": 36.48,
+    "longitude": -121.16,
+    "funFact": "The remains of an ancient volcanic field that eroded over millions of years.",
+    "description": "Features rock formations, talus caves, and endangered condors.",
+    "icon": "rock"
   },
   {
     "id": 49,
-    "name": "Pinnacles National Park",
-    "latitude": 36.49,
-    "longitude": -121.16,
-    "funFact": "Pinnacles features unique rock spires and cave formations.",
-    "description": "Known for its rock formations and cave systems.",
-    "icon": "canyon"
+    "name": "Redwood National and State Parks",
+    "latitude": 41.3,
+    "longitude": -124.0,
+    "funFact": "Home to some of the tallest trees on Earth, including Hyperion, which stands at 379 feet.",
+    "description": "Known for its giant redwoods and coastal scenery.",
+    "icon": "tree"
   },
   {
     "id": 50,
-    "name": "Redwood National Park",
-    "latitude": 41.3,
-    "longitude": -124.0,
-    "funFact": "Redwood is home to the tallest trees on earth.",
-    "description": "Features towering redwoods and coastal landscapes.",
-    "icon": "forest"
+    "name": "Rocky Mountain National Park",
+    "latitude": 40.4,
+    "longitude": -105.58,
+    "funFact": "Contains over 60 peaks higher than 12,000 feet, including Longs Peak at 14,259 feet.",
+    "description": "Features rugged mountains and alpine tundra.",
+    "icon": "mountain"
   },
   {
     "id": 51,
-    "name": "Rocky Mountain National Park",
-    "latitude": 40.35,
-    "longitude": -105.65,
-    "funFact": "Rocky Mountain National Park offers stunning alpine views and wildlife.",
-    "description": "Known for its high-altitude peaks and alpine lakes.",
-    "icon": "mountain"
+    "name": "Saguaro National Park",
+    "latitude": 32.25,
+    "longitude": -111.17,
+    "funFact": "Named for the iconic saguaro cactus, which can grow over 40 feet tall.",
+    "description": "Known for its desert landscapes and cacti.",
+    "icon": "cactus"
   },
   {
     "id": 52,
-    "name": "Saguaro National Park",
-    "latitude": 32.233,
-    "longitude": -111.071,
-    "funFact": "Saguaro is known for its giant saguaro cacti, a symbol of the American Southwest.",
-    "description": "Features iconic saguaro cacti and desert landscapes.",
-    "icon": "sun"
+    "name": "Sequoia National Park",
+    "latitude": 36.5,
+    "longitude": -118.8,
+    "funFact": "Home to the General Sherman Tree, the largest tree on Earth by volume.",
+    "description": "Features giant sequoias and mountain scenery.",
+    "icon": "tree"
   },
   {
     "id": 53,
-    "name": "Sequoia National Park",
-    "latitude": 36.5,
-    "longitude": -118.57,
-    "funFact": "Sequoia is home to the largest trees by volume, including General Sherman Tree.",
-    "description": "Known for its massive sequoia trees and mountainous terrain.",
-    "icon": "forest"
-  },
-  {
-    "id": 54,
     "name": "Shenandoah National Park",
     "latitude": 38.53,
-    "longitude": -78.48,
-    "funFact": "Shenandoah features the scenic Skyline Drive and Appalachian Trail access.",
-    "description": "Known for its beautiful drives and hiking trails.",
-    "icon": "sun"
-  },
-  {
-    "id": 55,
-    "name": "Theodore Roosevelt National Park",
-    "latitude": 46.93,
-    "longitude": -103.52,
-    "funFact": "Theodore Roosevelt Park is known for its badlands and bison herds.",
-    "description": "Features rugged badlands and diverse wildlife.",
-    "icon": "canyon"
-  },
-  {
-    "id": 56,
-    "name": "Virgin Islands National Park",
-    "latitude": 18.33,
-    "longitude": -64.85,
-    "funFact": "Virgin Islands features tropical beaches and rich marine life.",
-    "description": "Known for its beautiful beaches and coral reefs.",
-    "icon": "waterfall"
-  },
-  {
-    "id": 57,
-    "name": "Voyageurs National Park",
-    "latitude": 48.53,
-    "longitude": -92.87,
-    "funFact": "Voyageurs is known for its lakes and canoeing opportunities.",
-    "description": "Features waterways and remote wilderness.",
-    "icon": "waterfall"
-  },
-  {
-    "id": 58,
-    "name": "White Sands National Park",
-    "latitude": 32.78,
-    "longitude": -106.17,
-    "funFact": "White Sands is known for its stunning white gypsum sand dunes.",
-    "description": "Features vast white sand dunes and desert landscapes.",
-    "icon": "sun"
-  },
-  {
-    "id": 59,
-    "name": "Wind Cave National Park",
-    "latitude": 43.54,
-    "longitude": -103.48,
-    "funFact": "Wind Cave is known for its unique cave formations and underground passages.",
-    "description": "Features extensive cave systems and unique formations.",
-    "icon": "campground"
-  },
-  {
-    "id": 60,
-    "name": "Wrangell-St. Elias National Park",
-    "latitude": 61.2,
-    "longitude": -142.98,
-    "funFact": "Wrangell-St. Elias is the largest national park in the U.S., with vast glaciers and mountains.",
-    "description": "Features expansive glaciers and mountain ranges.",
+    "longitude": -78.35,
+    "funFact": "Includes a portion of the Appalachian Trail, which runs for over 100 miles through the park.",
+    "description": "Known for its scenic Skyline Drive and mountain views.",
     "icon": "mountain"
   },
   {
-    "id": 61,
-    "name": "Yosemite National Park",
-    "latitude": 37.74,
-    "longitude": -119.58,
-    "funFact": "Yosemite is famous for its stunning granite cliffs and waterfalls.",
-    "description": "Known for its iconic granite formations and waterfalls.",
-    "icon": "canyon"
+    "id": 54,
+    "name": "Theodore Roosevelt National Park",
+    "latitude": 46.97,
+    "longitude": -103.45,
+    "funFact": "Named after the 26th President of the United States, who was a strong advocate for conservation.",
+    "description": "Features badlands, prairie landscapes, and wildlife.",
+    "icon": "prairie"
   },
   {
-    "id": 62,
+    "id": 55,
+    "name": "Virgin Islands National Park",
+    "latitude": 18.33,
+    "longitude": -64.73,
+    "funFact": "Covers approximately 60% of the island of St. John and includes underwater areas.",
+    "description": "Known for its beaches, coral reefs, and hiking trails.",
+    "icon": "island"
+  },
+  {
+    "id": 56,
+    "name": "Voyageurs National Park",
+    "latitude": 48.5,
+    "longitude": -92.88,
+    "funFact": "Named after the French-Canadian fur traders known as 'voyageurs' who traveled the area in the 18th and 19th centuries.",
+    "description": "Features interconnected waterways and forests.",
+    "icon": "lake"
+  },
+  {
+    "id": 57,
+    "name": "Wind Cave National Park",
+    "latitude": 43.57,
+    "longitude": -103.48,
+    "funFact": "Contains one of the world's longest and most complex cave systems.",
+    "description": "Known for its unique boxwork formations and prairie landscapes.",
+    "icon": "cave"
+  },
+  {
+    "id": 58,
+    "name": "Wrangell-St. Elias National Park",
+    "latitude": 61.72,
+    "longitude": -142.99,
+    "funFact": "The largest national park in the U.S., covering an area larger than six Yellowstone National Parks.",
+    "description": "Features mountains, glaciers, and wildlife.",
+    "icon": "mountain"
+  },
+  {
+    "id": 59,
+    "name": "Yellowstone National Park",
+    "latitude": 44.6,
+    "longitude": -110.5,
+    "funFact": "The first national park in the world, established in 1872.",
+    "description": "Known for its geothermal features, such as geysers and hot springs.",
+    "icon": "geyser"
+  },
+  {
+    "id": 60,
+    "name": "Yosemite National Park",
+    "latitude": 37.83,
+    "longitude": -119.5,
+    "funFact": "Home to Yosemite Falls, one of the tallest waterfalls in North America.",
+    "description": "Known for its granite cliffs, waterfalls, and giant sequoias.",
+    "icon": "waterfall"
+  },
+  {
+    "id": 61,
     "name": "Zion National Park",
     "latitude": 37.3,
     "longitude": -113.05,
-    "funFact": "Zion features dramatic canyon views and striking rock formations.",
-    "description": "Known for its deep canyons and towering rock formations.",
+    "funFact": "Known for the Zion Canyon, which is 15 miles long and up to 2,640 feet deep.",
+    "description": "Features high plateaus, a labyrinth of narrow, deep sandstone canyons, and striking rock formations.",
     "icon": "canyon"
   }
 ]

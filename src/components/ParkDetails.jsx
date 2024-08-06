@@ -4,7 +4,7 @@ import parksData from '../data/parksData.json';
 
 function ParkDetails() {
   const { id } = useParams();
-  const navigate = useNavigate(); // Initialize the navigate function
+  const navigate = useNavigate(); 
   const park = parksData.find((park) => park.id === parseInt(id));
 
   return (
