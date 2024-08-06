@@ -1,9 +1,11 @@
 import React from 'react';
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
-import { Link } from 'react-router-dom'; // Import Link for navigation
+import { MapContainer, TileLayer } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
-import parksData from '../data/parksData.json'; 
+import 'leaflet-extra-markers/dist/css/leaflet.extra-markers.min.css'; // Import the CSS for extra markers
 import L from 'leaflet'; 
+import 'leaflet-extra-markers'; // Import leaflet-extra-markers functionality
+import parksData from '../data/parksData.json';
+import ParkMarker from './ParkMarker'; // Import the ParkMarker component
 
 // Leaflet icon fix
 delete L.Icon.Default.prototype._getIconUrl;
@@ -58,20 +60,10 @@ function Home() {
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           />
           {parksData.map((park) => (
-            <Marker key={park.id} position={[park.latitude, park.longitude]}>
-              <Popup>
-                <strong className="text-lg font-semibold">{park.name}</strong>
-                <br />
-                {park.funFact}
-                <br />
-                <Link
-                  to={`/natpark/${park.id}`}
-                  className="inline-block mt-2 px-3 py-1 bg-transparent border border-gray-200 text-gray-500 rounded-md text-xs hover:bg-gray-100 hover:text-gray-700"
-                >
-                  Learn more
-                </Link>
-              </Popup>
-            </Marker>
+            <ParkMarker
+              key={park.id}
+              park={park}
+            />
           ))}
         </MapContainer>
       </main>
