@@ -9,3 +9,10 @@ body {
   font-size: 24px;
   color: #244329;
 }
+.custom-diamond .diamond {
+  width: 16px;
+  height: 16px;
+  background-color: green;
+  transform: rotate(45deg);
+  position: relative;
+}
